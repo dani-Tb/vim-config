@@ -1,7 +1,7 @@
 BASIC VIM CONFIG & SETUP
 ========================
 
-Basic Vim setup to get everywhere quick.
+Basic Vim setup to get everywhere quickly.
 It installs Vundle Plugin Manager and Airline.
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
 * [Airline](https://github.com/vim-airline/vim-airline)
